@@ -97,6 +97,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 - SCRUM
 
 # Cronograma e Sprint
+![](https://github.com/DISPVAG/imagens/blob/main/cronograma.jpg)
 
 # Tecnologia Utilizada
 ![](https://github.com/DISPVAG/imagens/blob/main/html%20(1).jpg)
