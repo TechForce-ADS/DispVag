@@ -27,43 +27,43 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
         <th>Github</th>
     </tr>
     <tr>
-        <td>Italo Bonilha Nascimento</td>
+        <td>🎓Italo Nascimento</td>
         <td>PO</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Debora Taira Novaes</td>
+        <td>🎓Debora Novaes</td>
         <td>SM</td>
         <td></td>
         <td></td>
     </tr>
      <tr>
-        <td>Ali Mohamed </td>
+        <td>🎓Ali Mohamed </td>
         <td>DT</td>
         <td></td>
         <td></td>
     </tr>
      <tr>
-        <td>Felipe dos Santos Bispo </td>
+        <td>🎓Felipe Bispo </td>
         <td>DT</td>
         <td></td>
         <td></td>
     </tr>
      <tr>
-        <td>Joao Pedro Lopes de Rezende</td>
+        <td>🎓Joao Pedro Rezende</td>
         <td>DT</td>
         <td></td>
         <td></td>
     </tr>
      <tr>
-        <td>Pedro Fernandes Seraggi</td>
+        <td>🎓Pedro Seraggi</td>
         <td>DT</td>
         <td></td>
         <td></td>
     </tr>
      <tr>
-        <td>Marina Angela </td>
+        <td>🎓Marina Angela Maciel</td>
         <td>DT</td>
         <td></td>
         <td></td>
