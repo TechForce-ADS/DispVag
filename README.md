@@ -100,7 +100,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 ![](https://github.com/DISPVAG/imagens/blob/main/cronograma.jpg)
 
 # Tecnologia Utilizada
-![](https://github.com/DISPVAG/imagens/blob/main/html%20(1).jpg)
+![](https://github.com/DISPVAG/imagens/blob/main/html.jpg)
 # Backlog do Produto
 
 # Burndown do Projeto
