@@ -89,7 +89,7 @@ DT - Developer Team
 # Cronograma e Sprint
 
 # Tecnologia Utilizada
-
+![](https://github.com/DISPVAG/imagens/blob/main/html_css.jpg)
 # Backlog do Produto
 
 # Burndown do Projeto
