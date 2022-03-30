@@ -52,7 +52,7 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
     </tr>
      <tr>
         <td>🎓Pedro Seraggi</td>
-        <td>DT</td>
+        <td>ST</td>
         <td><a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163">@Linkedin</a></td>
         <td><a href="https://github.com/PedroSeraggi">@Github</a></td>
     </tr>
