@@ -85,13 +85,13 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 # Objetivo
 
 # Requisitos do Site
-- <img src = "./imagens/feito.jpeg" />Linguagem Python (Requisito FATEC)
-- Linguagem HTML e CSS (Requisito FATEC)
-- Apresentação via Github
-- O sistema WEB deverá ter no minimo 5 páginas (Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização (vagas e cursos))
+- <img src = "./imagens/feito.jpeg" /> Linguagem Python (Requisito FATEC)
+- <img src = "./imagens/feito.jpeg" /> Linguagem HTML e CSS (Requisito FATEC)
+- <img src = "./imagens/feito.jpeg" /> Apresentação via Github
+- <img src = "./imagens/feito.jpeg" /> O sistema WEB deverá ter no minimo 5 páginas (Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização (vagas e cursos))
 
 **Não Funcionais**
-- Github 
+- <img src = "./imagens/feito.jpeg" /> Github 
 
 # Metodologia
 - SCRUM
