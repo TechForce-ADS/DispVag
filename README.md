@@ -98,6 +98,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 
 # Cronograma e Sprint
 ![](https://github.com/DISPVAG/DISPVAG/blob/main/imagens/cronograma.jpg)
+![](https://github.com/DISPVAG/DISPVAG/blob/main/imagens/sprints.jpeg)
 
 # Tecnologia Utilizada
 ![](https://github.com/DISPVAG/DISPVAG/blob/main/imagens/html.jpg)
