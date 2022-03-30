@@ -113,7 +113,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 # Tecnologia Utilizada
 
 <h1 align="center"> <img src = "./imagens/html.jpg></h1>
-![]()
+
 
 * **Banco de Dados:** MySQL;
 * **Back-end:** PhP, Apache;
