@@ -112,7 +112,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 
 # Tecnologia Utilizada
 
-- <img src= (https://github.com/DISPVAG/DISPVAG/blob/main/imagens/sprints.jpeg)>
+<img src= (https://github.com/DISPVAG/DISPVAG/blob/main/imagens/sprints.jpeg)>
 * **Banco de Dados:** MySQL;
 * **Back-end:** PhP, Apache;
 * **Front-end:** HTML, CSS, JavaScript;
