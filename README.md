@@ -113,12 +113,15 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 # Tecnologia Utilizada
 ![](./imagens/html.jpg)
 
-* **Banco de Dados:** MySQL;
-* **Back-end:** PhP, Apache;
-* **Front-end:** HTML, CSS, JavaScript;
-* **Ferramentas:** Visual Studio Code, phpMyAdmin, Miro, Canva, Trello, CkEditor, Git e Github;
+
+
+* **Front-end:** HTML, CSS;
+* **Ferramentas:** Visual Studio Code, Canva, e Github;
 
 # backlog do Produto
+
+![](./imagens/Backlog.jpeg)
+
 
 # Burndown do Projeto
 
