@@ -120,12 +120,12 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 * **Front-end:** HTML, CSS, JavaScript;
 * **Ferramentas:** Visual Studio Code, phpMyAdmin, Miro, Canva, Trello, CkEditor, Git e Github;
 
-<br>
+ <br></br>
 
 
- # Backlog do Produto
+# backlog do Produto
 
 
- # Burndown do Projeto
+# Burndown do Projeto
 
 
