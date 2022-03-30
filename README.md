@@ -65,7 +65,8 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
      <tr>
         <td>🎓Marina Angela Maciel</td>
         <td>DT</td>
-        <td>[@LinkedIn](https://br.linkedin.com/in/marinaangela)</td>
+      <td><a>[]()</a></td>
+      <td><a href="https://br.linkedin.com/in/marinaangela">@LinkedIn</a></td>
         <td></td>
     </tr>
 </table>
