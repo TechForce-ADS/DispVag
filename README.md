@@ -30,37 +30,37 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
         <td>🎓Italo Nascimento</td>
         <td>PO</td>
         <td></td>
-        <td>https://github.com/italobonilha</td>
+        <td><a href="https://github.com/italobonilha">@Github</a></td>
     </tr>
     <tr>
         <td>🎓Debora Novaes</td>
         <td>SM</td>
         <td></td>
-        <td>https://github.com/deborataira</td>
+        <td><a href="https://github.com/deborataira">@Github</a></td>
     </tr>
      <tr>
         <td>🎓Ali Mohamed </td>
         <td>DT</td>
         <td><a href="https://www.linkedin.com/in/alimohamedkhodr">@Linkedin</a></td>
-        <td>https://github.com/alimoahmed</td>
+        <td><a href="https://github.com/alimoahmed">@Github</a></td>
     </tr>
      <tr>
         <td>🎓Felipe Bispo </td>
         <td>DT</td>
         <td><a href="https://www.linkedin.com/in/felipe-bispo-632104235/">@Linkedin</a></td>
-        <td>https://github.com/fsbispo</td>
+        <td><a href="https://github.com/fsbispo">@Github</a></td>
     </tr>
      <tr>
         <td>🎓Joao Pedro Rezende</td>
         <td>DT</td>
         <td></td>
-        <td>https://github.com/joaolrez</td>
+        <td><a href="https://github.com/joaolrez">@Github</a></td>
     </tr>
      <tr>
         <td>🎓Pedro Seraggi</td>
         <td>DT</td>
         <td><a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163">@Linkedin</a></td>
-        <td>https://github.com/PedroSeraggi</td>
+        <td><a href="https://github.com/PedroSeraggi">@Github</a></td>
     </tr>
      <tr>
         <td>🎓Marina Angela Maciel</td>
