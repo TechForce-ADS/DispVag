@@ -100,7 +100,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 
 - <a href="https://github.com/DISPVAG/DISPVAG/blob/main/imagens/cronograma.jpg">Cronograma</a>
 
-**Sprints:** 
+> **Sprints:** 
 
 ![](https://github.com/DISPVAG/DISPVAG/blob/main/imagens/sprints.jpeg)
 
