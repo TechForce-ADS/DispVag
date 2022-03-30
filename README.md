@@ -119,8 +119,10 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 * **Ferramentas:** Visual Studio Code, Canva, e Github;
 
 # backlog do Produto
+- Lista de itens e funcionalidade a serem desenvolvidas e implementadas no projeto
 
 ![](./imagens/Backlog.jpeg)
+> **Backlog:** 
 
 
 # Burndown do Projeto
