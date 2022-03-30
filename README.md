@@ -41,13 +41,13 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
      <tr>
         <td>🎓Ali Mohamed </td>
         <td>DT</td>
-        <td>https://www.linkedin.com/in/alimohamedkhodr</td>
+        <td><a href="https://www.linkedin.com/in/alimohamedkhodr">@Linkedin</a></td>
         <td>https://github.com/alimoahmed</td>
     </tr>
      <tr>
         <td>🎓Felipe Bispo </td>
         <td>DT</td>
-        <td>https://www.linkedin.com/in/felipe-bispo-632104235/</td>
+        <td><a href="https://www.linkedin.com/in/felipe-bispo-632104235/">@Linkedin</a></td>
         <td>https://github.com/fsbispo</td>
     </tr>
      <tr>
@@ -59,7 +59,7 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
      <tr>
         <td>🎓Pedro Seraggi</td>
         <td>DT</td>
-        <td>https://www.linkedin.com/in/pedro-seraggi-5b7491163/</td>
+        <td>/<a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163">@Linkedin</a></td>
         <td>https://github.com/PedroSeraggi</td>
     </tr>
      <tr>
