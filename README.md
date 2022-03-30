@@ -91,7 +91,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 - <img src = "./imagens/feito.jpeg" /> O sistema WEB deverá ter no minimo 5 páginas (Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização (vagas e cursos))
 
 > **Não Funcionais**
-- <img src = "./imagens/feito.jpeg" /> Github 
+- <img src = "./imagens/feito.jpeg" /> Github.<br><br>
 
 
 
