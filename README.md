@@ -25,48 +25,56 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
         <th>Função</th>
         <th>Linkedln</th>
         <th>Github</th>
+        <th>Teste DISC</th>
     </tr>
     <tr>
         <td>🎓Italo Nascimento</td>
         <td>PO</td>
         <td></td>
         <td><a href="https://github.com/italobonilha">@Github</a></td>
+        <td>Influência</td>
     </tr>
     <tr>
         <td>🎓Debora Novaes</td>
         <td>SM</td>
         <td></td>
         <td><a href="https://github.com/deborataira">@Github</a></td>
+        <td>Dominante</td>
     </tr>
      <tr>
         <td>🎓Ali Mohamed </td>
         <td>ST</td>
         <td><a href="https://www.linkedin.com/in/alimohamedkhodr">@Linkedin</a></td>
         <td><a href="https://github.com/alimoahmed">@Github</a></td>
+        <td>Estável</td>
     </tr>
      <tr>
         <td>🎓Felipe Bispo </td>
         <td>ST</td>
         <td><a href="https://www.linkedin.com/in/felipe-bispo-632104235/">@Linkedin</a></td>
         <td><a href="https://github.com/fsbispo">@Github</a></td>
+        <td>Influência</td>
     </tr>
      <tr>
         <td>🎓Pedro Seraggi</td>
         <td>ST</td>
         <td><a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163">@Linkedin</a></td>
         <td><a href="https://github.com/PedroSeraggi">@Github</a></td>
+        <td>Estável</td>
     </tr>
      <tr>
         <td>🎓Joao Pedro Rezende</td>
         <td>ST</td>
         <td></td>
         <td><a href="https://github.com/joaolrez">@Github</a></td>
+        <td>Estável</td>
     </tr>
      <tr>
         <td>🎓Marina Angela Maciel</td>
         <td>ST</td>
         <td><a href="https://br.linkedin.com/in/marinaangela">@Linkedin</a></td>
-      <td></td>
+        <td></td>
+        <td>Dominante</td>
     </tr>
 </table>
 
@@ -75,8 +83,9 @@ Este trabalho elaborado em conjunto seguindo as normas apresentada ao grupo. Atu
 ```
 PO - Product Owner
 SM - Scrum Master
-DT - Scrum Team
+ST - Scrum Team
 ```
+
 
 # Projeto
 
