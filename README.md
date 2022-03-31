@@ -89,7 +89,7 @@ ST - Scrum Team
 
 # Projeto
 
-Desenvolver um sistema web para automatizar o processo de catalogar vagase djversas profissões principalmente de TI e configurar métricas para pontos como tipos de conhecimento, habilidade e competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilmente de usabilidade e operação bem como toda a dcumentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente 
+Desenvolver um sistema web para automatizar o processo de catalogar vagas e diversas profissões principalmente de TI e configurar métricas para pontos como tipos de conhecimento, habilidade e competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilmente de usabilidade e operação bem como toda a dcumentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente 
 
 # Objetivo
 
@@ -129,9 +129,10 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagase djver
 
 # backlog do Produto
 - Lista de itens e funcionalidade a serem desenvolvidas e implementadas no projeto
+> **Backlog:**
 
 ![](./imagens/Backlog.jpeg)
-> **Backlog:** 
+
 
 
 # Burndown do Projeto
