@@ -78,6 +78,7 @@
     <td>ST</td>
     <td></td>
     <td></td>
+    <td>Influência</td>
   </tr>
   
   <tr>
@@ -85,6 +86,7 @@
     <td>ST</td>
     <td></td>
     <td></td>
+    <td>Estável</td>
   </tr>
   
   <tr>
@@ -92,6 +94,7 @@
     <td>ST</td>
     <td></td>
     <td></td>
+    <td>Estável</td>
   </tr>
   
   <tr>
@@ -99,6 +102,7 @@
     <td>ST</td>
     <td></td>
     <td></td>
+    <td>Dominante</td>
   </tr>
   
 </table>
