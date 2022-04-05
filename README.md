@@ -147,7 +147,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Metodologia
 
-- [Scrum](https://github.com/DISPVAG/PROJETO/blob/main/Metodologia/README.md)
+- [Scrum](https://github.com/DISPVAG/DISPVAG/tree/main/metodologia#readme)
 
 # Cronograma e Sprint
 
