@@ -47,12 +47,14 @@
     <td>Funções</td>
     <td>Linkedin</td>
     <td>Github</td>
+    <td>Teste DISC </td>
   </tr>
   <tr>
     <td>Italo Nascimento</td>
     <td>PO</td>
     <td></td>
     <td></td>
+    <td>Influencia</td>
   </tr>
   
   <tr>
@@ -60,6 +62,7 @@
     <td>SM</td>
     <td></td>
     <td></td>
+    <td>Dominante</td>
   </tr>
   
   <tr>
@@ -67,6 +70,7 @@
     <td>ST</td>
     <td><a href="https://www.linkedin.com/in/alimohamedkhodr"></td>
     <td></td>
+    <td>Estavel</td>
   </tr>
   
   <tr>
