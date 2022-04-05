@@ -29,6 +29,7 @@
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
+- <a href ="#design-thinking"> Design Thinking </a>
 - <a href ="#backlog-do-poduto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
@@ -190,7 +191,11 @@ requisitos) e Localização (vagas e cursos) )
 > - Word
 > - Github
 > - Discord
- 
+
+
+# Desing Thinking
+
+
 # Backlog do Poduto
 
 <img src = "https://github.com/DISPVAG/imagens/blob/main/Backlog.jpeg" />
