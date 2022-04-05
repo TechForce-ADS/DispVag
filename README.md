@@ -29,7 +29,7 @@
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
-- <a href ="#design-thinking"> Design Thinking </a>
+- <a href ="#desing-thinking"> Design Thinking </a>
 - <a href ="#backlog-do-poduto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
