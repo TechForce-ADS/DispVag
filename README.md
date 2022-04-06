@@ -132,16 +132,16 @@ Conseguir apresentar todos os requisitos necessarios, atingindo assim a meta est
 # Requisito do Site
 
 > Requisitos Funcionais:
-• Linguagem Python (Requisito Fatec)
-• Linguagem HTML e CSS (Requisito Fatec)
-• Uso do framework Bootstrap
-• Apresentação via Github.
-• O sistema web deverá ter no mínimo 5 páginas (Página principal do projeto, Vagas de
+- Linguagem Python (Requisito Fatec)
+- Linguagem HTML e CSS (Requisito Fatec)
+- Uso do framework Bootstrap
+- Apresentação via Github.
+- O sistema web deverá ter no mínimo 5 páginas (Página principal do projeto, Vagas de
 Empregos, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e
 requisitos) e Localização (vagas e cursos) )
 
 > Requisitos Não Funcionais:
-• Github
+- Github
 
 
 
