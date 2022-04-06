@@ -195,7 +195,38 @@ requisitos) e Localização (vagas e cursos) )
 
 # Desing Thinking
 
- [Prototipo](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
+O design thinking significa pensar como um designer ou, por assim dizer, “pensar fora da caixa”. Trata-se de uma abordagem criativa utilizada para a resolução de problemas.
+
+- EMPATIA
+> A primeira etapa dessa abordagem é considerada a fase de entendimento e compreensão de todos elementos de um problema. Isso envolve o problema em si, o público, as outras soluções já disponíveis e a sua empresa.
+Esse processo de conhecimento é realizado por meio do mergulho no tema, identificando várias perspectivas presentes e situações particulares que fazem parte do universo do problema a ser resolvido.
+- DEFINIR
+> Depois de entender todos os detalhes sobre o problema, o tema em geral, o público e as possibilidades disponíveis, é hora de analisar os dados coletados e elaborar uma síntese para guiar o processo de criação da solução.
+Dessa forma, é na etapa de análise e síntese que acontece o planejamento das ações que precisam ser realizadas para que, ao final do projeto, a abordagem de Design Thinking tenha um resultado eficiente.
+É fundamental que cada detalhe dessa etapa esteja documentado e apresentado de uma forma visual, para que sirva de base para todo o restante do projeto.
+- IDEALIZAÇÃO
+> A etapa de ideação deve servir para que todos envolvidos no projetos possam sugerir propostas de intervenção e apresentar seus insights. Um resultado eficiente, normalmente, é encontrado em projetos que conseguem desenvolver ideias de representantes de várias perspectivas sobre o problema.
+- PROTOTIPAGEM
+> A criação de protótipos funciona como uma forma de testar a aderência da solução junto ao público e o resultado para a empresa.
+- TESTES
+> Após o momento de prototipagem, você terá dados sobre a performance da sua solução e informações sobre os ajustes necessários. Depois de realizar as alterações necessárias, é hora de implementar o que foi planejado e colocar no mercado.
+#
+
+- PROBLEMA:
+> Foi aparesentado ao grupo um cliente que estaraia passando por uma necessidade, onde foi captado que ele precisava de uma aplicação web que compreendesse e atendesse as expectativa do publico em achar vagas de emprego, cursos e especializações em diversas areas distintas mas dando enfase nas da area de Tecnologia.
+
+- DEFINIÇÂO:
+> Após a eatapa da apresentação do problema, foi deficido junto ao cliente o que poderia ser feito para cessar as dificuldades encontradas. Enfim chegamos a conclusão que teriamos um prazo de entorno de três semanas (25/03 - 14/04), e que o cliente gostaria que fizessemos algo que ão demorasse e que ficasse bom para o publido visualizar mesmo não estando finalizado.
+
+- IDEALIZAÇÂO:
+> Tivemos diversas ideas de como ficaria essa aplicação web, mas como foi pedido do cliente, chegamos a conclusão que entregaremos de primeira mão um HTML com CSS e os campos de vagas e cursos já catolagos, assim o cliente e o publico já conseguiria ver as mesmas e não atrapalharia o desempenho e do projeto.
+
+- PROTOTIPAGEM:
+> Realizamos um prototipo para o cliente ficar a par do que foi decido e assim ele veria se gostaria de acrescentar algo a mais
+> - [Prototipo](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
+
+- TESTES:
+> Após a prototipagem foi realizado testes e estamos implementando nosso projeto. 
 
 # Backlog do Poduto
 
