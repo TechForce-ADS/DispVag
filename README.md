@@ -181,7 +181,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Tecnologia Utilizadas
 
-<img src = "https://github.com/DISPVAG/imagens/blob/main/tecnologias%20usadas%20.jpg" />
+<img src = "https://github.com/DISPVAG/imagens/blob/main/Tecnologias%20Usadas%20.png" />
 
 ## 
 
