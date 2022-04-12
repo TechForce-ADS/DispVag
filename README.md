@@ -1,4 +1,4 @@
-<br>
+ <br>
 <table>
   <tr>
     <td>Cliente</td>
@@ -232,7 +232,7 @@ Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pud
 >Após a prototipagem, testes que como nosso produto funcionaria foram realizados, para que ele ficasse intuitivo. Com isso começamos a desenvolver o HTML.
  
 
-# Backlog do Poduto
+# Backlog do Produto
 
 <img src = "https://github.com/DISPVAG/imagens/blob/main/Backlog.jpeg" />
 
