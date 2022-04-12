@@ -233,7 +233,6 @@ Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pud
  
 
 # Backlog do Produto
-
-<img src = "https://github.com/DISPVAG/imagens/blob/main/Backlog.jpeg" />
+<img src = "https://github.com/DISPVAG/imagens/blob/main/Backlog do produto.jpeg" />
 
 # Burndown do Projeto
