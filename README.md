@@ -1,4 +1,4 @@
-# Grupo ADS - Projeto Integrador 1° SEM 2022 - Aplicação Web – Análises e oportunidades<br>
+<br>
 <table>
   <tr>
     <td>Cliente</td>
@@ -192,7 +192,7 @@ requisitos) e Localização (vagas e cursos) )
 > - Discord
 
 
-# Desing Thinking
+# Design Thinking
 
 O Design Thinking significa pensar como um designer ou, por assim dizer, “pensar fora da caixa”. Trata-se de uma abordagem criativa utilizada para a resolução de problemas.
 
