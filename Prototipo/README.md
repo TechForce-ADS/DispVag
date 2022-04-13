@@ -25,17 +25,37 @@ OUTROS
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem4.jpeg" />
 
 #
-> Colocamos informações basicas sobre a vaga. 
-#### OBS: o contato neste caso esta sendo direto com o site da empresa, sendo nada ligado com o nosso site! 
+> Colocamos informações básicas sobre a vaga. 
 
 ```
 DESCRIÇÂO DA VAGA
 ÁREA DE ATUAÇÃO
 REQUISITOS NECESSÁRIOS PARA A VAGA
 BENEFICIOS QUE A EMPRESA OFERECE
+CONTATOS 
 ````
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem7.jpeg" />
 
+#
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem8.jpeg" />
+
+#
+#### OBS: o contato neste caso está sendo direto com o site da empresa, sendo NADA ligado com o nosso site!
+# 
+> A seguir temos, para finalizar, um "Sobre a Empresa" onde está ocorrendo o processo seletivo: 
 
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem5.jpeg" />
 
+#
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem6.jpeg" />
+
+#
+> Como podem ver temos informações breves tornando assim algo mais objetivo para o cliente que for acessar o site.
+```
+SOBRE A EMPRESA
+SETOR DE ATUAÇÃO
+FUNCIONÁRIOS 
+CONTATO DIRETO COM A EMPRESA 
+```
+
+
