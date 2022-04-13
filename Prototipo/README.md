@@ -65,7 +65,7 @@ CONTATO DIRETO COM A EMPRESA
 </p>
 
 
-> ![Link para o Protótipo na Web ](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
+> [Link para o Protótipo na Web ](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
  
 # Protótipo - 2
 
