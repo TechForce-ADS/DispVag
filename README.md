@@ -226,7 +226,8 @@ Após o momento de prototipagem, você terá dados sobre a performance da sua so
 > Foi realizado um protótipo para que o cliente pudesse entender nosso raciocínio, salientar alguma mudança e assim conseguir a aprovação para prosseguirmos com essa ideia.
  
 > - [Prototipo](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
-Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
+
+> Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
 # 
 - TESTES:
 >Após a prototipagem, testes que como nosso produto funcionaria foram realizados, para que ele ficasse intuitivo. Com isso começamos a desenvolver o HTML.
