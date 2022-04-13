@@ -5,14 +5,14 @@
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem1.jpeg" />
 
 # 
-> Decidimos que para a primeira Sprint iriamos entregar a Página de Vagas, separadas em Departamentos.
+> Decidimos que para a primeira Sprint iriamos entregar a **"Página de Vagas"**, separadas em **Departamentos**.
 ```
 FRONT-END
 BACK-END
 OUTROS
 ```
  
-> A seguir temos as imagens que mostram detalhes sobre a vaga de emprego: 
+> A seguir temos as imagens que mostram detalhes sobre a **Vaga de Emprego**: 
 
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem2.jpeg" />
 
@@ -29,7 +29,7 @@ OUTROS
 
 ```
 DESCRIÇÂO DA VAGA
-ÁREA DE ATUAÇÃO
+ÁREA PROFISSIONAL
 REQUISITOS NECESSÁRIOS PARA A VAGA
 BENEFICIOS QUE A EMPRESA OFERECE
 CONTATOS 
@@ -42,7 +42,7 @@ CONTATOS
 #
 #### OBS: o contato neste caso está sendo direto com o site da empresa, sendo NADA ligado com o nosso site!
 # 
-> A seguir temos, para finalizar, um "Sobre a Empresa" onde está ocorrendo o processo seletivo: 
+> A seguir temos, para finalizar, um **"Sobre a Empresa"** onde está ocorrendo o processo seletivo: 
 
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem5.jpeg" />
 
