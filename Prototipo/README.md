@@ -41,7 +41,7 @@ CONTATOS
 
 #
 #### OBS: o contato neste caso está sendo direto com o site da empresa, sendo NADA ligado com o nosso site!
-# 
+ 
 > A seguir temos, para finalizar, um **"Sobre a Empresa"** onde está ocorrendo o processo seletivo: 
 
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/Imagem5.jpeg" />
