@@ -61,7 +61,7 @@ CONTATO DIRETO COM A EMPRESA
 video
 
 <p align="center">
-  <img width="460" height="300" src="src/assets/to_readme/InfoCovid19app.gif">
+  <img width="460" height="300" src="https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/ezgif.com-gif-maker.gif">
 </p>
  
 # Protótipo - 2
