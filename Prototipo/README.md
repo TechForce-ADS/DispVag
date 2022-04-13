@@ -57,6 +57,12 @@ SETOR DE ATUAÇÃO
 FUNCIONÁRIOS 
 CONTATO DIRETO COM A EMPRESA 
 ```
+
+video
+
+<p align="center">
+  <img width="460" height="300" src="src/assets/to_readme/InfoCovid19app.gif">
+</p>
  
 # Protótipo - 2
 
