@@ -225,7 +225,7 @@ Após o momento de prototipagem, você terá dados sobre a performance da sua so
 - PROTOTIPAGEM:
 > Foi realizado um protótipo para que o cliente pudesse entender nosso raciocínio, salientar alguma mudança e assim conseguir a aprovação para prosseguirmos com essa ideia.
  
-> - [Prototipo](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
+> - [Prototipo](https://github.com/DISPVAG/DISPVAG/tree/main/Prototipo)
 
 > Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
 # 
