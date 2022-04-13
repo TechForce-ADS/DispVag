@@ -17,7 +17,7 @@
 </table>
 </br>
 
-# Proximo Artigo
+# Artigos
 
 - <a href ="#conhecimento-exigido"> Conhecimento Exigido </a>
 - <a href ="#equipes"> Equipes </a>
