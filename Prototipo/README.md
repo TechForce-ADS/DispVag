@@ -57,7 +57,7 @@ SETOR DE ATUAÇÃO
 FUNCIONÁRIOS 
 CONTATO DIRETO COM A EMPRESA 
 ```
-# 
+ 
 # Protótipo - 2
 
 > Deixamos previamente pronto um **NOVO** protótipo que esperamos usar nas **próximas Sprints**. Segue abaixo imagem do nosso modelo: 
