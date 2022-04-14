@@ -1,0 +1,180 @@
+.navtop {
+    background-color: #18dbf5;
+    margin: -8px ;
+    padding: 8px;
+    height: 60px;
+    width: 100%;
+
+}
+.navtop div {
+    display: flex;
+    margin: 0px auto;
+    width: 80%;
+    height: 100%;
+}
+.navtop div h1, .navtop div a {
+    display: inline-flex;           /** coloca as palavras no centro junto com a imagem **/
+    align-items: center;
+    
+}
+.navtop div h1 {
+    flex: 1;
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+    color: #ecf0f6;
+    font-weight: normal;
+}
+
+.navtop div a {
+    padding: 0 20px;
+    text-decoration: none;  /* tira a linha de baixo dos link*/
+    color: #000000;
+    font-weight: bold;
+}
+
+.navtop div g {
+    margin-left: -20px ; /** mexe a logo **/
+}
+
+.navtop div a i {
+    padding: 2px 8px 0 30px;    /* 1° manda pra baixo 2° distancia da palavra com a imagem 3° manda pra cima 4° distancia entre as palavras */
+    border: 3px;
+    border-color: black;
+}
+
+.navtop div a:hover {     /* hover: cor do botão a colocar o mouse em cima */
+    color: #FFAAFF;
+}
+
+div#edu {
+    background: url("edu.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0;
+    width: 1000px;
+    height: 500px;
+    display: block;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+footer{
+    background-color: #8afdfd ;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    font-size: 17px;
+    font-weight: bold;  
+} 
+
+h1{
+    font-size: 25px;
+    text-align: left;
+    margin-left:500px;
+    margin-right:500px;
+    font-weight:bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-size: 17px;
+    text-align: left;
+    margin-left:500px;
+    margin-right:500px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+     
+
+h3{
+    font-size: 25px;
+    text-align: left;
+    margin-left:400px;
+    margin-right:400px;
+    font-weight:bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4{
+    font-size: 15px;
+    text-align: left;
+    margin-left:400px;
+    margin-right:400px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h5{
+    font-size: 15px;
+    text-align: left;
+    margin-left:400px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h6{
+    font-size: 17px;
+    text-align: left;
+    margin-left:400px;
+    margin-right:500px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.texto{
+
+    font-size: 25px;
+    text-align: left;
+    margin-left:400px;
+    margin-right:400px;
+    margin-bottom: 20px ;
+    margin-top: 60px;
+    font-weight:bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.cont {
+    margin-left:400px;
+    margin-right:400px; 
+    width: 250px; 
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #000;
+
+ }
+
+
+ .cont2 {
+    margin-left:400px;
+    margin-right:400px; 
+    width: 250px; 
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid #000;
+
+ }
+
+
+ .teste {
+    background-color: #18dbf5;
+    height: 400px;
+    width: 400px;
+    opacity: 60%;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: 300px;
+    display: inline-table;
+    
+}
