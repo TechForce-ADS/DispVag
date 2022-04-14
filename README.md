@@ -120,8 +120,9 @@ competências. Visualmente deverá ter informações do tipo estratégicas (grá
 usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub
 com todos os processos necessários para a fidelização do cliente.
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api"> Nosso Projeto em algumas linhas </a>
-> <a href =" "> Projeto em video </a> 
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api"> Nosso Projeto em algumas linhas (**códigos**) </a>
+
+> <a href =" "> Projeto em **Video e Imagens** </a> 
 
 # Objetivo
 
