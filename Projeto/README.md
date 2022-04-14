@@ -68,9 +68,12 @@ Um passo a passo do projeto em imagem :
   </table>
   
  # Nosso projeto em Video: 
- Um passo a passo do projeto em imagem :
+ Um passo a passo do projeto em Video:
  
- <p align="center">
-  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/ezgif.com-gif-maker%20(1).gif">
+ <p align="">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
 </p>
  
+> O grupo pretende efetuar algumas mudanças no projeto, confira essas mudanças vendo nosso protótipo.
+
+> [Link para o Protótipo](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
