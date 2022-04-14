@@ -60,7 +60,7 @@ CONTATO DIRETO COM A EMPRESA
 
 # Vídeo
 
-<p align="center">
+<p align="">
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/ezgif.com-gif-maker%20(1).gif">
 </p>
 
