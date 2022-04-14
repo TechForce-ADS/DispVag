@@ -51,56 +51,56 @@
   <tr>
     <td>Italo Nascimento</td>
     <td>PO</td>
-    <td></td>
-    <td></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/italobonilha"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Influência</td>
   </tr>
   
   <tr>
     <td>Debora Taira</td>
     <td>SM</td>
-    <td></td>
-    <td></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/deborataira"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Dominante</td>
   </tr>
   
   <tr>
     <td>Ali Mohamed</td>
     <td>ST</td>
-    <td><a href="https://www.linkedin.com/in/alimohamedkhodr"></td>
-    <td></td>
+    <td><a href="https://www.linkedin.com/in/alimohamedkhodr"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/alimoahmed"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   
   <tr>
     <td>Felipe Bispo</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.linkedin.com/in/felipe-bispo-632104235/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/fsbispo"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Influência</td>
   </tr>
   
   <tr>
     <td>Pedro Seraggi</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/PedroSeraggi"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   
   <tr>
     <td>João Pedro</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></td>
+    <td><a href="https://github.com/joaolrez"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   
   <tr>
     <td>Marina Angela</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://br.linkedin.com/in/marinaangela"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Dominante</td>
   </tr>
   
