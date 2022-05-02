@@ -70,7 +70,7 @@ Um passo a passo do projeto em imagem (1º sprint) :
   </table>
   
  # Nosso projeto em Video: 
- Um passo a passo do projeto em Video:
+ Um passo a passo do projeto em Video (1º sprint):
  
  <p align="">
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
