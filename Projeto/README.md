@@ -12,7 +12,7 @@
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%201"> Código 1º Sprint </a>
 
 # Nosso Projeto em Imagens 
-Um passo a passo do projeto em imagem : 
+Um passo a passo do projeto em imagem (1º sprint) : 
 
  <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
