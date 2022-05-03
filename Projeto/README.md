@@ -11,8 +11,7 @@
 > 
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%201"> Código 1º Sprint </a>
 
-# Nosso Projeto em Imagens 
-Um passo a passo do projeto em imagem (1º sprint) : 
+# Um passo a passo do projeto em imagem (1º sprint) : 
 
  <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
@@ -69,8 +68,7 @@ Um passo a passo do projeto em imagem (1º sprint) :
   </tr>
   </table>
   
- # Nosso projeto em Video: 
- Um passo a passo do projeto em Video (1º sprint):
+ # Um passo a passo do projeto em Video (1º sprint):
  
  <p align="">
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
@@ -78,4 +76,13 @@ Um passo a passo do projeto em imagem (1º sprint) :
  
 > O grupo pretende efetuar algumas mudanças no projeto, confira essas mudanças vendo nosso protótipo.
 
-> [Link para o Protótipo](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
+> [Link para o Protótipo da 1º Sprint](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
+
+# Sprint 2
+> Como nossa segunda Sprint ficou decidido entregar as páginas faltante com interação das linguagens de programação utilizadas.
+> <a href =""> Código 2º Sprint </a>
+# Um passo a passo do projeto em imagem (2º sprint) : 
+
+# Um passo a passo do projeto em Video (2º sprint):
+
+> [Link para o Protótipo da 2º Sprint ](https://marvelapp.com/project/6201323/screen/86475290 )
