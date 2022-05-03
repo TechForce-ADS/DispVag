@@ -69,7 +69,7 @@ CONTATO DIRETO COM A EMPRESA
  
 # Protótipo - 2
 
-> Deixamos previamente pronto um **NOVO** protótipo que esperamos usar nas **próximas Sprints**. Segue abaixo imagem do nosso modelo: 
+> Deixamos pronto um **NOVO** protótipo que esperamos usar nas **próximas Sprints**. Segue abaixo imagem do nosso modelo: 
 
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/prototipo-2%20-%20Dispvag.png" />
 
