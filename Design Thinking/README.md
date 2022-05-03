@@ -36,7 +36,7 @@
 - PROTOTIPAGEM:
 >
  
-> - [Prototipo](https://github.com/DISPVAG/DISPVAG/tree/main/Prototipo)
+> - [Prototipo](https://github.com/DISPVAG/DISPVAG/tree/main/Prototipo#prot%C3%B3tipo---2)
 
 > Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
 # 
