@@ -213,8 +213,10 @@ A criação de protótipos funciona como uma forma de testar a aderência da sol
 Após o momento de prototipagem, você terá dados sobre a performance da sua solução e informações sobre os ajustes necessários. Depois de realizar as alterações necessárias, é hora de implementar o que foi planejado e colocar no mercado.
 #
 
-> <a href="">**1º Sprint**</a>
+> <a href="https://github.com/DISPVAG/DISPVAG/edit/main/Design%20Thinking/README.md#1%C2%BA-sprint">**1º Sprint**</a>
+
 > <a href="">**2º Sprint**</a>
+
 > <a href="">**3º Sprint**</a>
  
 # Backlog do Produto
