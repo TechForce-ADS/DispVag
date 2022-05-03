@@ -85,4 +85,4 @@
 
 # Um passo a passo do projeto em Video (2º sprint):
 
-> [Link para o Protótipo da 2º Sprint ](https://marvelapp.com/project/6201323/screen/86475290 )
+> [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
