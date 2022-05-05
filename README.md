@@ -1,6 +1,4 @@
-# Grupo ADS - Projeto Integrador 1° SEM 2022 - Aplicação Web – Análises e oportunidades
-
-<br>
+ <br>
 <table>
   <tr>
     <td>Cliente</td>
@@ -11,7 +9,7 @@
   </tr>
   <tr>
     <td>Antonio Egydio</td>
-    <td>1º ADS (Análise e Desenvolvimento de Sistemas)</td>
+    <td>1º ADS (Análise e Desenvolvimento de Sistemas) </td>
     <td> Jean Carlos Costa</td>
     <td>Antônio Egydio </td>
     <td>antonio.graca@fatec.sp.gov.br </td>
@@ -19,7 +17,7 @@
 </table>
 </br>
 
-# Proximo Artigo
+# Artigos
 
 - <a href ="#conhecimento-exigido"> Conhecimento Exigido </a>
 - <a href ="#equipes"> Equipes </a>
@@ -29,8 +27,8 @@
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
-- <a href ="#desing-thinking"> Design Thinking </a>
-- <a href ="#backlog-do-poduto"> Backlog do Produto </a>
+- <a href ="#design-thinking"> Design Thinking </a>
+- <a href ="#backlog-do-produto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
 # Conhecimento exigido 
@@ -39,7 +37,7 @@
 - Controle de versão
 - Processo de Desenvolvimento Ágil
 - Lógica de programação
-- Comunicação formal falada e escrita
+- Comunicação formal, falada e escrita
 
 # Equipes
 <table>
@@ -53,56 +51,56 @@
   <tr>
     <td>Italo Nascimento</td>
     <td>PO</td>
-    <td></td>
-    <td></td>
-    <td>Influencia</td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/italobonilha"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+    <td>Influência</td>
   </tr>
   
   <tr>
-    <td>Debora Novaes</td>
+    <td>Debora Taira</td>
     <td>SM</td>
-    <td></td>
-    <td></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/deborataira"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Dominante</td>
   </tr>
   
   <tr>
     <td>Ali Mohamed</td>
     <td>ST</td>
-    <td><a href="https://www.linkedin.com/in/alimohamedkhodr"></td>
-    <td></td>
-    <td>Estavel</td>
+    <td><a href="https://www.linkedin.com/in/alimohamedkhodr"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/alimoahmed"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+    <td>Estável</td>
   </tr>
   
   <tr>
     <td>Felipe Bispo</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.linkedin.com/in/felipe-bispo-632104235/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/fsbispo"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Influência</td>
   </tr>
   
   <tr>
     <td>Pedro Seraggi</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.linkedin.com/in/pedro-seraggi-5b7491163/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
+    <td><a href="https://github.com/PedroSeraggi"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   
   <tr>
     <td>João Pedro</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></td>
+    <td><a href="https://github.com/joaolrez"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   
   <tr>
     <td>Marina Angela</td>
     <td>ST</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://br.linkedin.com/in/marinaangela"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Dominante</td>
   </tr>
   
@@ -111,22 +109,25 @@
 ```
 PO - Product Owner
 SM - Scrum Master
-ST - Scrum team
+ST - Scrum Team
 ```
 
 # Projeto
 
-Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões
-principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e
+Desenvolver um Sistema Web para automatizar o processo de catalogar vagas de diversas profissões com 
+ênfase na área de TI e configurar métricas para pontos como tipos de conhecimento, habilidades e
 competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilidades de
 usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub
 com todos os processos necessários para a fidelização do cliente.
 
-> <a href ="https://github.com/DISPVAG/PROJETO/tree/main/Projeto"> Nosso Projeto em algumas linhas </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api"> Nosso Projeto em algumas linhas (**códigos**) </a>
+
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Projeto em **Video e Imagens** </a> 
 
 # Objetivo
 
-Conseguir apresentar todos os requisitos necessarios, atingindo assim a meta estabelecida pela empresa e nosso cliente 
+Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível satisfatório do produto para empresa e cliente.
+ 
 
 
 # Requisito do Site
@@ -135,13 +136,13 @@ Conseguir apresentar todos os requisitos necessarios, atingindo assim a meta est
 - Linguagem Python (Requisito Fatec)
 - Linguagem HTML e CSS (Requisito Fatec)
 - Uso do framework Bootstrap
-- Apresentação via Github.
+- Apresentação via GitHub.
 - O sistema web deverá ter no mínimo 5 páginas (Página principal do projeto, Vagas de
 Empregos, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e
 requisitos) e Localização (vagas e cursos) )
 
 > Requisitos Não Funcionais:
-- Github
+- GitHub
 
 
 
@@ -158,23 +159,23 @@ requisitos) e Localização (vagas e cursos) )
  <img src = "https://github.com/DISPVAG/imagens/blob/main/Sprint.jpeg" />
  
  ### <p>:white_check_mark: <a href="">Sprint 1</a> - 25/03 - 14/04</p>
- > <p>:white_check_mark: Pagina de Vagas</p>
+ > <p>:white_check_mark: Página de Vagas</p>
  > <p>:white_check_mark: Informações das Vagas</p>
  > <p>:white_check_mark: Campo de Busca</p>
  > <p>:white_check_mark: Cabeçalho e Rodapé</p>
- > <p>:white_check_mark: Desing Thinking</p>
+ > <p>:white_check_mark: Design Thinking</p>
  
  ### <p>:x:<a href="">Sprint 2</a> - 25/04 - 15/05</p>
- > <p>:x: Pagina Home, Sobre Nós, Contato</p>
- > <p>:x:Ajuste na funcionalidade de busca</p>
- > <p>:x: Inicio da interação com as Linguagens de Programação</p>
- > <p>:x: FrameWork e Bootstrap</p>
+ > <p>Em construção...  🚧: Página Home, Sobre Nós, Contato, Métricas, Certificações, Localização</p>
+ > <p>Em construção...  🚧: Ajuste na funcionalidade de busca</p>
+ > <p>Em construção...  🚧: Início da interação com as Linguagens de Programação</p>
+ > <p>Em construção...  🚧: FrameWork e Bootstrap</p>
  
 
  ### <p>:x: <a href="">Sprint 1</a> - 16/05 - 05/06</p>
  > <p>:x: Documentação do Projeto</p>
  > <p>:x: Apresentação em PowerPoint</p>
- > <p>:x: Github</p>
+ > <p>:x: GitHub</p>
 
  
 
@@ -189,48 +190,39 @@ requisitos) e Localização (vagas e cursos) )
 > - CSS
 > - Canvas
 > - Word
-> - Github
+> - GitHub
 > - Discord
 
 
-# Desing Thinking
+# Design Thinking
 
-O design thinking significa pensar como um designer ou, por assim dizer, “pensar fora da caixa”. Trata-se de uma abordagem criativa utilizada para a resolução de problemas.
+O Design Thinking significa pensar como um designer ou, por assim dizer, “pensar fora da caixa”. Trata-se de uma abordagem criativa utilizada para a resolução de problemas.
 
 - EMPATIA
-A primeira etapa dessa abordagem é considerada a fase de entendimento e compreensão de todos elementos de um problema. Isso envolve o problema em si, o público, as outras soluções já disponíveis e a sua empresa.
+A primeira etapa dessa abordagem é considerada a fase de entendimento e compreensão de todos os elementos de um problema. Isso envolve o problema em si, o público, as outras soluções já disponíveis e a sua empresa.
 Esse processo de conhecimento é realizado por meio do mergulho no tema, identificando várias perspectivas presentes e situações particulares que fazem parte do universo do problema a ser resolvido.
 - DEFINIR
-Depois de entender todos os detalhes sobre o problema, o tema em geral, o público e as possibilidades disponíveis, é hora de analisar os dados coletados e elaborar uma síntese para guiar o processo de criação da solução.
+Depois de entender todos os detalhes sobre o problema, o tema em geral, o público e as possibilidades disponíveis, são o momento de analisar os dados coletados e elaborar uma síntese para guiar o processo de criação da solução.
 Dessa forma, é na etapa de análise e síntese que acontece o planejamento das ações que precisam ser realizadas para que, ao final do projeto, a abordagem de Design Thinking tenha um resultado eficiente.
 É fundamental que cada detalhe dessa etapa esteja documentado e apresentado de uma forma visual, para que sirva de base para todo o restante do projeto.
 - IDEALIZAÇÃO
-A etapa de ideação deve servir para que todos envolvidos no projetos possam sugerir propostas de intervenção e apresentar seus insights. Um resultado eficiente, normalmente, é encontrado em projetos que conseguem desenvolver ideias de representantes de várias perspectivas sobre o problema.
+A etapa de idealização deve servir para que todos envolvidos no projeto possam sugerir propostas de intervenção e apresentar seus insights. Um resultado eficiente, normalmente, é encontrado em projetos que conseguem desenvolver ideias de representantes de várias perspectivas sobre o problema.
 - PROTOTIPAGEM
 A criação de protótipos funciona como uma forma de testar a aderência da solução junto ao público e o resultado para a empresa.
 - TESTES
 Após o momento de prototipagem, você terá dados sobre a performance da sua solução e informações sobre os ajustes necessários. Depois de realizar as alterações necessárias, é hora de implementar o que foi planejado e colocar no mercado.
 #
 
+> <a href="https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#1%C2%BA-sprint">**1º Sprint**</a>
 
-- PROBLEMA:
-> Foi aparesentado ao grupo um cliente que estaraia passando por uma necessidade, onde foi captado que ele precisava de uma aplicação web que compreendesse e atendesse as expectativa do publico em achar vagas de emprego, cursos e especializações em diversas areas distintas mas dando enfase nas da area de Tecnologia.
-# 
-- DEFINIÇÂO:
-> Após a eatapa da apresentação do problema, foi deficido junto ao cliente o que poderia ser feito para cessar as dificuldades encontradas. Enfim chegamos a conclusão que teriamos um prazo de entorno de três semanas (25/03 - 14/04), e que o cliente gostaria que fizessemos algo que ão demorasse e que ficasse bom para o publido visualizar mesmo não estando finalizado.
-# 
-- IDEALIZAÇÂO:
-> Tivemos diversas ideas de como ficaria essa aplicação web, mas como foi pedido do cliente, chegamos a conclusão que entregaremos de primeira mão um HTML com CSS e os campos de vagas e cursos já catolagos, assim o cliente e o publico já conseguiria ver as mesmas e não atrapalharia o desempenho e do projeto.
-# 
-- PROTOTIPAGEM:
-> Realizamos um prototipo para o cliente ficar a par do que foi decido e assim ele veria se gostaria de acrescentar algo a mais
-> - [Prototipo](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
-# 
-- TESTES:
-> Após a prototipagem foi realizado testes e estamos implementando nosso projeto.
+> <a href="">**2º Sprint**</a>
 
-# Backlog do Poduto
-
-<img src = "https://github.com/DISPVAG/imagens/blob/main/Backlog.jpeg" />
+> <a href="">**3º Sprint**</a>
+ 
+# Backlog do Produto
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/Backlog1.1.jpeg" />
 
 # Burndown do Projeto
+> 1º Sprint
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/Imagem4.jpeg" />
+
