@@ -21,13 +21,13 @@
 > Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
 # 
 - TESTES:
->Após a prototipagem, testes que como nosso produto funcionaria foram realizados, para que ele ficasse intuitivo. Com isso começamos a desenvolver o HTML.
+> Após a prototipagem, testes que como nosso produto funcionaria foram realizados, para que ele ficasse intuitivo. Com isso começamos a desenvolver o HTML.
 
 # 
 
 > ### 2º Sprint
 - PROBLEMA:
->  
+> Vimos que a aplicação Web necessitava de algumas mudanças no layout... (escrever mais sobre) 
 # 
 - DEFINIÇÂO:
 > 
