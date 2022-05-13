@@ -65,7 +65,7 @@ CONTATO DIRETO COM A EMPRESA
 </p>
 
 
-> [Link para o Protótipo na Web ](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
+> [Link para o primeiro Protótipo na Web ](https://pedrofseraggi.wixsite.com/my-site/c%C3%B3pia-vagas)
  
 # Protótipo - 2
 
@@ -74,15 +74,30 @@ CONTATO DIRETO COM A EMPRESA
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/PROJETO/IMG-20220412-WA0005.jpg" />
 
 # 
+> Como podem ver decidimos criar um novo modelo totalmente diferente do anterior, com novos estudos de cores, novas condições, com uma estrutura melhor e uma ampla organização das páginas. Logco no inicio o usuário já terá acesso á:
+```
+VAGAS NA AREA DE TI
+BREVE DESCRIÇÃO DAS VAGAS, CURSOS E CERTIFICAÇÕES
+CONTATO COM DIRETO COM A PAGINA SOBRE O SITE
+PÁGINA PARA ESCLARECIMENTO DE DÚVIDAS
+LINKS PARA REDES SOCIAIS
+```
+
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/PROJETO/IMG-20220428-WA0004.jpg" />
 
 # 
+> Página de vagas como já foi dito será separada por departamento, RH, FRONT-END, ANALISTA, LOGISTICA, EMPREENDEDOR, CONSULTORA, entre outros departamentos.
+
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/PROJETO/IMG-20220503-WA0001.jpg" />
 
 # 
+> Ao selecionar o departamento desejado aparecerá uma lista de vagas relacionado a área desejada
+
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/PROJETO/IMG-20220428-WA0007.jpg" />
 
 #
+> Em seguida, sua escolha de vaga, curso ou especialização o levará para uma drescrição sobre o tal. Com a escolha de ver métricas e localização de cada uma. 
+
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/imagens_prototipo/PROJETO/IMG-20220428-WA0006.jpg" />
 
 # 
