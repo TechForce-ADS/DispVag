@@ -21,5 +21,6 @@ Além disso, na metodologia Scrum é presente 3 papéis principais:
 O Product Owner vai indicar a Visão do Produto, como ele o quer e onde quer chegar. A partir dessa visão, será feito uma lista de funcionalidades para que aquele produto se torne real, essa lista é chamada de PRODUCT BACKLOG e o Scrum Master ajuda o Product Owner a fazê-la. Além disso, o Scrum Master vai organizar essa lista de acordo com a prioridade de cada funcionalidade, as mais importantes serão feitas primeiro. Depois feito esse planejamento, o produto será entregado de forma gradativa, ou seja, "um pouco de cada vez". Essa entrega será feita através do SPRINT BACKLOG, que são espaços de tempos de 2 a 4 semanas, no qual ao final de cada Sprint, uma parte do produto é entregue. Para organizar e planejar os Sprints, será feita a SPRINT PLANNING e ao final de cada Sprint é feito o SPRINT REVIEW, para verificar a necessidade de mudanças no produto. Além disso, é praticamente certo que o produto sofrerá mudanças ao longo do processo, dessa forma, também é feita a RETROSPECTIVA para buscar melhoras no projeto. Após o término de todo este processo, o produto deve ser entregue contemplando todas as mudanças necessárias. Portanto, é um processo dinâmico que exige muito trabalho em equipe e comunicação.
 # 
 
-Vídeos de apoio: https://www.youtube.com/watch?v=XfvQWnRgxG0&t=2s
-https://www.youtube.com/watch?v=3jFhJXgURJw&t=3s
+Vídeos de apoio: 
+- https://www.youtube.com/watch?v=XfvQWnRgxG0&t=2s
+- https://www.youtube.com/watch?v=3jFhJXgURJw&t=3s
