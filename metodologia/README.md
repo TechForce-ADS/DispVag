@@ -1,7 +1,7 @@
 
 <img align="center"  src="https://github.com/DISPVAG/DISPVAG/blob/main/metodologia/scrum.png">
 
-> TSCRUM
+> SCRUM
 Scrum é uma Métodologia Ágil. Ou seja, é uma das formas de evitar processos longos e complicados que possam eventualmente falhar em algum momento. Além disso, Scrum é uma metodologia amplamente utilizada no mercado de trabalho, e com uma alta taxa de sucesso.
 O Scrum possui 3 pilares fundamentais:
 
