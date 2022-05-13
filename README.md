@@ -190,9 +190,11 @@ requisitos) e Localização (vagas e cursos) )
 > - HTML
 > - CSS
 > - Canvas
-> - Word
+> - Pacote Office
 > - GitHub
 > - Discord
+> - Python e outras linguagens
+> - Visual Studio Code
 
 
 # Design Thinking
