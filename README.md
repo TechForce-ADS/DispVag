@@ -28,6 +28,7 @@
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
 - <a href ="#design-thinking"> Design Thinking </a>
+- <a href ="#bsc-Balanced-Scorecard"> BSC - balanced Scorecard </a>
 - <a href ="#backlog-do-produto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
@@ -218,7 +219,37 @@ Após o momento de prototipagem, você terá dados sobre a performance da sua so
 > <a href="">**2º Sprint**</a>
 
 > <a href="">**3º Sprint**</a>
- 
+
+# BSC - Balanced Scorecard 
+
+A ideia central do BSC é enxergar de forma balanceada, todas as métricas de negócio de uma empresa, agrupadas em objetivos estratégicos e que tenham uma relação de causa e efeito entre elas.
+
+> Perspectivas:
+As quatro perspectivas originais do BSC são:
+- Financeira
+- Clientes
+- Processos Internos
+- Aprendizado e Crescimento
+
+> Objetivo Estratégico:
+Os Objetivos Estratégicos definem o rumo que a empresa deve seguir e mostram a resposta esperada para uma pergunta depois de um determinado período. Por exemplo: como nossa situação financeira estará no fim do ano? Ou como estará nossa relação com o mercado?
+- Analise SWOT
+
+> Indicadores chaves de desempenho
+são informações manipuladas matematicamente, de forma a auxiliar na tomada de decisão e com maior qualidade do que as informações ou dados.
+- Dashboard 
+
+> Metas
+Uma boa prática para a definição de metas é a utilização da metodologia SMART.
+- "Obter R$X MM de faturamento até o fim de 2016"
+
+> Mapas Estratégicos
+Os mapas estratégicos são a representação gráfica do BSC que torna ainda mais simples para sua empresa realizar seu processo de planejamento e acompanhamento.
+
+#
+> <a href="">**Nosso BSC**</a>
+
+
 # Backlog do Produto
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/Backlog1.1.jpeg" />
 
