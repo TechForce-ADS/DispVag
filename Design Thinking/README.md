@@ -2,7 +2,7 @@
 
 # DESIGN THINKING 
 
-> ### 1º Sprint
+> ### 1º Sprint (:white_check_mark:Concluido)
 - PROBLEMA:
 > Foi apresentado ao grupo, um cliente que tinha necessidade de uma Aplicação Web que compreendesse e atendesse a demanda dos usuários em busca de um emprego, cursos ou especializações em diversas áreas, porém com foco na área de Tecnologia. 
 # 
