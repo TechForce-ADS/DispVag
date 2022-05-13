@@ -156,7 +156,7 @@ requisitos) e Localização (vagas e cursos) )
 
 > Sprint:
 
- <img src = "https://github.com/DISPVAG/imagens/blob/main/Sprint.jpeg" />
+ <img src = "https://github.com/DISPVAG/imagens/blob/main/sprint%20DISP.jpg" />
  
  ### <p>:white_check_mark: <a href="">Sprint 1</a> - 25/03 - 14/04</p>
  > <p>:white_check_mark: Página de Vagas</p>
@@ -182,7 +182,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Tecnologia Utilizadas
 
-<img src = "https://github.com/DISPVAG/imagens/blob/main/Tecnologias%20Usadas%20.png" />
+<img src = "https://github.com/DISPVAG/imagens/blob/main/tecnologias%20utilizadas%20DISP.jpg" />
 
 ## 
 
