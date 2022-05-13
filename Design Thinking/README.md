@@ -2,7 +2,7 @@
 
 # DESIGN THINKING 
 
-> :white_check_mark: 1º Sprint (Concluido)
+> :white_check_mark: 1º Sprint (Concluido) marina
 - PROBLEMA:
 > Foi apresentado ao grupo, um cliente que tinha necessidade de uma Aplicação Web que compreendesse e atendesse a demanda dos usuários em busca de um emprego, cursos ou especializações em diversas áreas, porém com foco na área de Tecnologia. 
 # 
