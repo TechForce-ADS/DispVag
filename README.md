@@ -28,7 +28,7 @@
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
 - <a href ="#design-thinking"> Design Thinking </a>
-- <a href ="#bsc-Balanced-Scorecard"> BSC - balanced Scorecard </a>
+- <a href ="#bsc---balanced-scorecard"> BSC - balanced Scorecard </a>
 - <a href ="#backlog-do-produto"> Backlog do Produto </a>
 - <a href ="#burndown-do-projeto"> Burndown do Projeto </a>
 
