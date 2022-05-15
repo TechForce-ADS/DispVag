@@ -277,18 +277,13 @@ ul li.botao-direita {
   font-size: 15px;
 }
 
-.metricas1 {
-  display: inline-flex;
-  align-items: center;
-  text-align: center;
-  width: 30%
-}
+ /*------------------METRICAS---------------------*/
 
-.metricas2 {
-  display: inline-flex;
-  align-items: center;
-  text-align: center;
-  width: 30%;
-}
 
- 
+ .metrica {
+  width: 40%;
+  margin-right:63px ;
+  margin-left:63px ;
+  display: inline-flex;
+  margin-bottom:30px ;   
+}
