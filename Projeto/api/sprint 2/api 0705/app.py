@@ -32,6 +32,9 @@ def sobre():
 @app.route("/contato.html")
 def contato():
     return render_template("/contato.html")
+@app.route("/localizacao.html")
+def localização():
+    return render_template("/localizacao.html")
 
 
 
