@@ -187,6 +187,7 @@ requisitos) e Localização (vagas e cursos) )
 
 ## 
 
+
 > - HTML
 > - CSS
 > - Canvas
@@ -218,7 +219,7 @@ Após o momento de prototipagem, você terá dados sobre a performance da sua so
 
 > <a href="https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#1%C2%BA-sprint">**1º Sprint**</a>
 
-> <a href="">**2º Sprint**</a>
+> <a href="">*https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#2%C2%BA-sprint*2º Sprint**</a>
 
 > <a href="">**3º Sprint**</a>
 
