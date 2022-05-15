@@ -167,10 +167,11 @@ requisitos) e Localização (vagas e cursos) )
  > <p>:white_check_mark: Design Thinking</p>
  
  ### <p>:x:<a href="">Sprint 2</a> - 25/04 - 15/05</p>
- > <p>Em construção...  🚧: Página Home, Sobre Nós, Contato, Métricas, Certificações, Localização</p>
+ > <p>Em construção...  🚧: Página Home, Métricas, Certificações, Localização</p>
  > <p>Em construção...  🚧: Ajuste na funcionalidade de busca</p>
  > <p>Em construção...  🚧: Início da interação com as Linguagens de Programação</p>
  > <p>Em construção...  🚧: FrameWork e Bootstrap</p>
+ > <p>Em construção...  🚧: BSC - Balanced Scorecard
  
 
  ### <p>:x: <a href="">Sprint 1</a> - 16/05 - 05/06</p>
