@@ -157,7 +157,7 @@ requisitos) e Localização (vagas e cursos) )
 
 > Sprint:
 
- <img src = "https://github.com/DISPVAG/imagens/blob/main/sprint%20DISP.jpg" />
+ <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/WhatsApp%20Image%202022-05-15%20at%2018.20.56.jpeg" />
  
  ### <p>:white_check_mark: <a href="">Sprint 1</a> - 25/03 - 14/04</p>
  > <p>:white_check_mark: Página de Vagas</p>
