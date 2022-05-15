@@ -26,23 +26,27 @@
 # 
 
 > ### 2º Sprint
-- PROBLEMA:
-> Vimos que a aplicação Web necessitava de algumas mudanças no layout... (escrever mais sobre) 
+- Problema: 
+> após a apresentação da primeira sprint, percebemos que algumas mudanças seriam necessárias. Porque ainda não estava completo, e de 100% do agrado do cliente. 
 # 
-- DEFINIÇÂO:
-> 
- 
+- Definição:
+> Ficou definido com o nosso cliente que como a ideia central do projeto é ser eficiente, útil e claro ao usuário, que nossas cores, funcionalidades e ideia central fosse alterada chegando assim no consenso de que teríamos um prazo de 3 semanas para entregar o site e suas funcionalidades (básicas principalmente) completas. Com campo de busca funcionando, as 5 páginas principais de forma que o cliente pudesse visualizar o site pronto. 
 # 
-- IDEALIZAÇÂO:
-> 
-- PROTOTIPAGEM:
->
- 
-> - [Prototipo](https://github.com/DISPVAG/DISPVAG/tree/main/Prototipo#prot%C3%B3tipo---2)
 
+- Idealização:
+> Nossas ideias foram aprimoradas, aplicariamos Bootstrap assim conseguiríamos algo mais responsivo. Aprimorariamos nosso html e CSS, para que o nosso site ficasse mais agradável possível ao usuário. Métricas e localizações sobre as vagas, cursos e certificações seriam alocadas no nosso site.
+E aplicaremos JavaScrip e Python para que o site ficasse ainda mais funcional. 
+
+# 
+- Prototipagem:
+> Refizeram nosso protótipo, assim desde o início o cliente já teria uma noção de quais mudanças iríamos fazer no projeto. 
+Após a provação subimos para o github do projeto.
+
+- [Prototipo](https://github.com/DISPVAG/DISPVAG/tree/main/Prototipo#prot%C3%B3tipo---2)
 > Após isso, fizemos um novo protótipo para que na próxima fase do projeto, pudéssemos evoluir no design e funcionalidade.
 # 
 - TESTES:
-> 
+> Realizamos testes e chegamos a conclusão que o site está funcional e eficiente.
+
 
 
