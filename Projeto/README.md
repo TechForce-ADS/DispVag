@@ -82,7 +82,7 @@
 # Sprint 2
 > Como nossa segunda Sprint ficou decidido entregar as páginas faltante com interação das linguagens de programação utilizadas.
 > 
-> <a href =""> Código 2º Sprint </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%202"> Código 2º Sprint </a>
 # Um passo a passo do projeto em imagem (2º sprint) : 
 adicionar imagens do projeto pronto passo a passo
 
