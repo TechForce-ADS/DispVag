@@ -251,7 +251,7 @@ Uma boa prática para a definição de metas é a utilização da metodologia SM
 Os mapas estratégicos são a representação gráfica do BSC que torna ainda mais simples para sua empresa realizar seu processo de planejamento e acompanhamento.
 
 #
-> <a href="">**Nosso BSC**</a>
+> <a href="https://github.com/DISPVAG/DISPVAG/blob/main/BSC/README.md">**Nosso BSC**</a>
 
 
 # Backlog do Produto
