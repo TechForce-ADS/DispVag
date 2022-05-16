@@ -87,7 +87,7 @@
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
     <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 2 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(12)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 2 <a/><img src = "" /></td>
   </tr>
   <tr>
     <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11)%20-%20Atalho.lnk" /></td>
