@@ -166,7 +166,7 @@ requisitos) e Localização (vagas e cursos) )
  > <p>:white_check_mark: Cabeçalho e Rodapé</p>
  > <p>:white_check_mark: Design Thinking</p>
  
- ### <p>:x:<a href="">Sprint 2</a> - 25/04 - 15/05</p>
+ ### <p>:white_check_mark:<a href="">Sprint 2</a> - 25/04 - 15/05</p>
  > <p>:white_check_mark: Página Home, Métricas, Certificações, Localização</p>
  > <p>:white_check_mark: Ajuste na funcionalidade de busca</p>
  > <p>:white_check_mark: Início da interação com as Linguagens de Programação</p>
