@@ -86,28 +86,28 @@
 # Um passo a passo do projeto em imagem (2º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
-    <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 2 <a/><img src = "" /></td>
+    <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1).jpeg" /></td>
+    <td><a> Imagem 2 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(12).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 4 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(10)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11).jpeg" /></td>
+    <td><a> Imagem 4 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(10).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(9)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 6 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(8)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(9).jpeg" /></td>
+    <td><a> Imagem 6 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(8).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 7 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(7)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 8 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(6)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 7 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(7).jpeg" /></td>
+    <td><a> Imagem 8 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(6).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 10 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(4)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5).jpeg" /></td>
+    <td><a> Imagem 10 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(4).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 11 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(3)%20-%20Atalho.lnk" /></td>
-    <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2)%20-%20Atalho.lnk" /></td>
+    <td><a> Imagem 11 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(3).jpeg" /></td>
+    <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2).jpeg" /></td>
   </tr>
   </table>
   
