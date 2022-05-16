@@ -86,7 +86,6 @@
 # Um passo a passo do projeto em imagem (2º sprint) : 
 adicionar imagens do projeto pronto passo a passo
 
-# Um passo a passo do projeto em Video (2º sprint):
-adicionar um video do projeto pronto passo a passo 
+
 
 > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
