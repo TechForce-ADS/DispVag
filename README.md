@@ -254,7 +254,7 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 > <a href="https://github.com/DISPVAG/DISPVAG/blob/main/BSC/README.md">**Nosso BSC**</a>
 
 
-# Backlog do Produto
+# Backlog das Sprints
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/WhatsApp%20Image%202022-05-15%20at%2019.09.48.jpeg" />
 
 
