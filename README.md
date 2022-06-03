@@ -157,7 +157,7 @@ requisitos) e Localização (vagas e cursos) )
 
 > Sprint:
 
- <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/WhatsApp%20Image%202022-05-15%20at%2018.20.56.jpeg" />
+ <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/CRONOGRAMA%20DA%20SPRINT.png" />
  
  ### <p>:white_check_mark: <a href="">Sprint 1</a> - 25/03 - 14/04</p>
  > <p>:white_check_mark: Página de Vagas</p>
@@ -184,7 +184,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Tecnologia Utilizadas
 
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/tecc.jpeg" />
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/Tecnologias%20%20utilizadas.png" />
 
 ## 
 
@@ -254,8 +254,8 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 > <a href="https://github.com/DISPVAG/DISPVAG/blob/main/BSC/README.md">**Nosso BSC**</a>
 
 
-# Backlog das Sprints
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/WhatsApp%20Image%202022-05-15%20at%2019.09.48.jpeg" />
+# Backlog do Produto
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/BACKLOG%20DO%20PRODUTO%20(1).png" />
 
 
 # Burndown do Projeto
