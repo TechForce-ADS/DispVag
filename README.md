@@ -162,22 +162,26 @@ requisitos) e Localização (vagas e cursos) )
  ### <p>:white_check_mark: <a href="">Sprint 1</a> - 25/03 - 14/04</p>
  > <p>:white_check_mark: Página de Vagas</p>
  > <p>:white_check_mark: Informações das Vagas</p>
- > <p>:white_check_mark: Campo de Busca</p>
+ > <p>:white_check_mark: Campo de Busca (sem funcionalidade)</p>
  > <p>:white_check_mark: Cabeçalho e Rodapé</p>
  > <p>:white_check_mark: Design Thinking</p>
  
  ### <p>:white_check_mark:<a href="">Sprint 2</a> - 25/04 - 15/05</p>
- > <p>:white_check_mark: Página Home, Métricas, Certificações, Localização</p>
- > <p>:white_check_mark: Ajuste na funcionalidade de busca</p>
+ > <p>:white_check_mark: Página Home, Métricas, Cursos e Certificações</p>
  > <p>:white_check_mark: Início da interação com as Linguagens de Programação</p>
- > <p>:white_check_mark: FrameWork e Bootstrap</p>
- > <p>:white_check_mark: BSC - Balanced Scorecard
+ > <p>:white_check_mark: Carrossel de Vagas</p>
+ > <p>:white_check_mark: BSC - Balanced Scorecard </p>
  
 
- ### <p>:x: <a href="">Sprint 1</a> - 16/05 - 05/06</p>
- > <p>:x: Documentação do Projeto</p>
- > <p>:x: Apresentação em PowerPoint</p>
- > <p>:x: GitHub</p>
+ ### <p>:white_check_mark <a href="">Sprint 1</a> - 16/05 - 05/06</p>
+ > <p>:white_check_mark: Framework e Bootstrap</p>
+ > <p>:white_check_mark: Localização e Busca </p>
+ > <p>:white_check_mark: Banco de Dados </p>
+ > <p>:white_check_mark: Carrossel de Cursos </p>
+ > <p>:white_check_mark: ITIL  </p>
+ > <p>:white_check_mark: Documentação do Projeto</p>
+ > <p>:white_check_mark: Apresentação em PowerPoint</p>
+ > <p>:white_check_mark: GitHub</p>
 
  
 
@@ -197,6 +201,7 @@ requisitos) e Localização (vagas e cursos) )
 > - Discord
 > - Python e outras linguagens
 > - Visual Studio Code
+> - SQL
 
 
 # Design Thinking
@@ -222,7 +227,6 @@ Após o momento de prototipagem, você terá dados sobre a performance da sua so
 
 > :white_check_mark: <a href="https://github.com/DISPVAG/DISPVAG/blob/main/Design%20Thinking/README.md#2%C2%BA-sprint">**2º Sprint**</a>
 
-> <a href="">**3º Sprint**</a>
 
 # BSC - Balanced Scorecard 
 
