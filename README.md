@@ -173,7 +173,7 @@ requisitos) e Localização (vagas e cursos) )
  > <p>:white_check_mark: BSC - Balanced Scorecard </p>
  
 
- ### <p>:white_check_mark <a href="">Sprint 1</a> - 16/05 - 05/06</p>
+ ### <p>:white_check_mark: <a href="">Sprint 3</a> - 16/05 - 05/06</p>
  > <p>:white_check_mark: Framework e Bootstrap</p>
  > <p>:white_check_mark: Localização e Busca </p>
  > <p>:white_check_mark: Banco de Dados </p>
