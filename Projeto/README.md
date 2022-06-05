@@ -68,13 +68,10 @@
 
 # Sprint 2
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
-> 
->  Protótipo desenvolvido para a 2° Sprint:
-> > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
 
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint2"> Código 2º Sprint </a>
-# Um passo a passo do projeto em imagem (2º sprint) : 
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint3"> Código 3º Sprint </a>
+# Um passo a passo do projeto em imagem (3º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
     <td><a> Home <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1).jpeg" /></td>
