@@ -61,7 +61,7 @@
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
 </p>
  
-> Esse é o protótipo que usamos na 1°Sprint:
+> Esse é o protótipo que usamos na 1° Sprint:
 > [Link para o Protótipo da 1º Sprint](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
 
 # Sprint 2
