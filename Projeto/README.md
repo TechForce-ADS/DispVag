@@ -52,6 +52,7 @@
     <td><a> Imagem 18 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/23.jpeg" /></td>
   </tr>
   <tr>
+  </table>
    
   
  # Um passo a passo do projeto em Video (1º sprint):
