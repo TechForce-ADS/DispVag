@@ -9,7 +9,10 @@
 - GitHub
 # Sprint 1
 > Como nossa primeira Sprint ficou decidido entregar o HTML e CSS da pagina de VAGAS, separada em DEPARTAMENTOS
-> 
+
+> Protótipo desenvolvido para a 1° Sprint:
+> [Link para o Protótipo da 1º Sprint](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
+
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint 1"> Código 1º Sprint </a>
 
 # Um passo a passo do projeto em imagem (1º sprint) : 
@@ -61,13 +64,12 @@
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
 </p>
  
-> Esse é o protótipo que usamos na 1° Sprint:
-> [Link para o Protótipo da 1º Sprint](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
+ 
 
 # Sprint 2
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
 > 
->  Desenvolvemos um novo protótipo para a 2° Sprint:
+>  Protótipo desenvolvido para a 2° Sprint:
 > > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
 
 
@@ -101,6 +103,40 @@
   </table>
   
 
+# Sprint 3
+> Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
+> 
+>  Protótipo desenvolvido para a 2° Sprint:
+> > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
 
 
-> [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint2"> Código 2º Sprint </a>
+# Um passo a passo do projeto em imagem (2º sprint) : 
+<table border="1" bordercolor="blue" width="100%" height="100%">
+  <tr>
+    <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1).jpeg" /></td>
+    <td><a> Imagem 2 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(12).jpeg" /></td>
+  </tr>
+  <tr>
+    <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11).jpeg" /></td>
+    <td><a> Imagem 4 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(10).jpeg" /></td>
+  </tr>
+  <tr>
+    <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(9).jpeg" /></td>
+    <td><a> Imagem 6 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(8).jpeg" /></td>
+  </tr>
+  <tr>
+    <td><a> Imagem 7 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(7).jpeg" /></td>
+    <td><a> Imagem 8 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(6).jpeg" /></td>
+  </tr>
+  <tr>
+    <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5).jpeg" /></td>
+    <td><a> Imagem 10 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(4).jpeg" /></td>
+  </tr>
+  <tr>
+    <td><a> Imagem 11 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(3).jpeg" /></td>
+    <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2).jpeg" /></td>
+  </tr>
+  </table>
+
+ 
