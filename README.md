@@ -121,7 +121,7 @@ competências. Visualmente deverá ter informações do tipo estratégicas (grá
 usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub
 com todos os processos necessários para a fidelização do cliente.
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api"> Nosso Projeto em algumas linhas (**códigos**) </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Nosso Projeto em algumas linhas (**códigos**) </a>
 
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Projeto em **Video e Imagens** </a> 
 
@@ -153,7 +153,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Cronograma e Sprint
 
-- [Cronograma](https://github.com/DISPVAG/imagens/blob/main/cronograma.jpg)
+- [Cronograma](https://github.com/DISPVAG/imagens/blob/main/cronograma3.jpg)
 
 > Sprint:
 
