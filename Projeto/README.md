@@ -19,12 +19,12 @@
 
  <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
-    <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/1.jpeg" /></td>
-    <td><a> Imagem 2 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/3.jpeg" /></td>
+    <td><a> Home <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/1.jpeg" /></td>
+    <td><a> Vagas - Departamentalização<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/3.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/4.jpeg" /></td>
-    <td><a> Imagem 4 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/5.jpeg" /></td>
+    <td><a> Página Front-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/4.jpeg" /></td>
+    <td><a> Vaga de front-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/5.jpeg" /></td>
   </tr>
   <tr>
     <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/6.jpeg" /></td>
