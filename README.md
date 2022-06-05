@@ -188,7 +188,7 @@ requisitos) e Localização (vagas e cursos) )
 
 # Tecnologia Utilizadas
 
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/Tecnologias%20%20utilizadas.png" />
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/tecnologia3.png" />
 
 ## 
 
@@ -259,13 +259,17 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 
 
 # Backlog do Produto
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/BACKLOG%20DO%20PRODUTO%20(1).png" />
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/backlog3.jpg" />
 
 
 # Burndown do Projeto
 > 1º Sprint
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn1.png" />
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn1sprint.png" />
 
 > 2º Sprint
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn2.png" />
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn2sprint.png" />
+
+> 3º Sprint
+<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn3sprint.png" />
+
 
