@@ -10,7 +10,7 @@
 # Sprint 1
 > Como nossa primeira Sprint ficou decidido entregar o HTML e CSS da pagina de VAGAS, separada em DEPARTAMENTOS
 > 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%201"> Código 1º Sprint </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint 1"> Código 1º Sprint </a>
 
 # Um passo a passo do projeto em imagem (1º sprint) : 
 
@@ -75,14 +75,16 @@
   <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/ezgif.com-gif-maker.gif">
 </p>
  
-> O grupo pretende efetuar algumas mudanças no projeto, confira essas mudanças vendo nosso protótipo.
-
+> Esse é o protótipo que usamos na 1°Sprint:
 > [Link para o Protótipo da 1º Sprint](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md )
 
 # Sprint 2
-> Como nossa segunda Sprint ficou decidido entregar as páginas faltante com interação das linguagens de programação utilizadas.
-> 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%202"> Código 2º Sprint </a>
+> Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
+>  Desenvolvemos um novo design para o site na segunda sprint:
+> > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
+
+
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint2"> Código 2º Sprint </a>
 # Um passo a passo do projeto em imagem (2º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
