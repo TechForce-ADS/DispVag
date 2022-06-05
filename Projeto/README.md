@@ -94,10 +94,6 @@
   </tr>
   <tr>
     <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5).jpeg" /></td>
-    <td><a> Imagem 10 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(4).jpeg" /></td>
-  </tr>
-  <tr>
-    <td><a> Imagem 11 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(3).jpeg" /></td>
     <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2).jpeg" /></td>
   </tr>
   </table>
