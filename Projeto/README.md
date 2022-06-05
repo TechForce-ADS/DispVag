@@ -27,32 +27,32 @@
     <td><a> Vaga de front-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/5.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/6.jpeg" /></td>
-    <td><a> Imagem 6 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/9.jpeg" /></td>
+    <td><a> Informações da vaga de front-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/6.jpeg" /></td>
+    <td><a> Página sobre a empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/9.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 7 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/10.jpeg" /></td>
-    <td><a> Imagem 8 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/11.jpeg" /></td>
+    <td><a> Informações sobre a empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/10.jpeg" /></td>
+    <td><a>  Site da empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/11.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/16.jpeg" /></td>
-    <td><a> Imagem 10 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/17.jpeg" /></td>
+    <td><a> Página Back-end  <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/16.jpeg" /></td>
+    <td><a> Vaga Back-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/13.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 11 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/18.jpeg" /></td>
-    <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/19.jpeg" /></td>
+    <td><a> Página da empresa  <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/17.jpeg" /></td>
+    <td><a> Informações da empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/18.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 13 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/20.jpeg" /></td>
-    <td><a> Imagem 14 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/21.jpeg" /></td>
+    <td><a> Vagas - Departamentalização<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/20.jpeg" /></td>
+    <td><a> Página Outros<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/21.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 15 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/15.jpeg" /></td>
-    <td><a> Imagem 16 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/16.jpeg" /></td>
+    <td><a> Vaga Outros <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/22.jpeg" /></td>
+    <td><a> Informações da vaga outros  <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/23.jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 17 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/22.jpeg" /></td>
-    <td><a> Imagem 18 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/23.jpeg" /></td>
+    <td><a> Página da empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/24.jpeg" /></td>
+    <td><a> Site da empresa <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/25.jpeg" /></td>
   </tr>
   <tr>
   </table>
@@ -77,24 +77,24 @@
 # Um passo a passo do projeto em imagem (2º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
-    <td><a> Imagem 1 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1).jpeg" /></td>
-    <td><a> Imagem 2 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(12).jpeg" /></td>
+    <td><a> Home <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(1).jpeg" /></td>
+    <td><a> Carrossel de vagas - Home <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(12).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 3 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11).jpeg" /></td>
-    <td><a> Imagem 4 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(10).jpeg" /></td>
+    <td><a> Página de Localização <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(11).jpeg" /></td>
+    <td><a> Vagas - Departamentalização <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(10).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 5 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(9).jpeg" /></td>
-    <td><a> Imagem 6 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(8).jpeg" /></td>
+    <td><a> Pagina - Área de front-end<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(9).jpeg" /></td>
+    <td><a> Vaga front-end <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(8).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 7 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(7).jpeg" /></td>
-    <td><a> Imagem 8 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(6).jpeg" /></td>
+    <td><a> Pagina de cursos<a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(7).jpeg" /></td>
+    <td><a> Site do Curso oferecido <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(6).jpeg" /></td>
   </tr>
   <tr>
-    <td><a> Imagem 9 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5).jpeg" /></td>
-    <td><a> Imagem 12 <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2).jpeg" /></td>
+    <td><a> Página de métricas <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(5).jpeg" /></td>
+    <td><a> Métricas <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/imagens/imagem%20(2).jpeg" /></td>
   </tr>
   </table>
   
