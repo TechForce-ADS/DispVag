@@ -157,7 +157,7 @@ requisitos) e Localização (vagas e cursos) )
 
 > Sprint:
 
- <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Cronograma/cronograma3.png" />
+ <img src = "https://github.com/DISPVAG/imagens/blob/main/cronograma3.jpg"/>
  
  ### <p>:white_check_mark: <a href="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/api/sprint%201">Sprint 1</a> - 25/03 - 14/04</p>
  > <p>:white_check_mark: Página de Vagas</p>
