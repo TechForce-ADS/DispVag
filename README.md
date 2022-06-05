@@ -259,7 +259,7 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 
 
 # Backlog do Produto
-<img src = "https://github.com/DISPVAG/DISPVAG/blob/main/imagens/backlog3.jpg" />
+<img src = "https://github.com/DISPVAG/imagens/blob/main/backlog.jpg" />
 
 
 # Burndown do Projeto
