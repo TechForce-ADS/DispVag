@@ -66,7 +66,8 @@
 
 # Sprint 2
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
->  Desenvolvemos um novo design para o site na segunda sprint:
+> 
+>  Desenvolvemos um novo protótipo para a 2° Sprint:
 > > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
 
 
