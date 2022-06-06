@@ -158,7 +158,7 @@
  # Um passo a passo do projeto em Video (3º sprint):
  
  <p align="">
-  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/video30.gif">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video3.gif">
 </p>
  
  
