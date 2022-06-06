@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    height: 100%;
+}
+.footer {
+    background-color: #012a56;
+    color: white;
+}
+.content{
+   flex: 1 0 auto;
+   -webkit-flex: 1 0 auto;
+   min-height: 80px;
+}
+
+.container{
+    width: 1360px;
+    margin: 0 auto;
+}
+
+.text-uppercase{
+    background-color: yellow;
+    color: black;
+    border-radius: 4px;
+    width: 130px;
+    display: block;
+    font-size: 17px;
+    text-align: center;
+    
+}
