@@ -149,5 +149,5 @@
     <td><a> Métricas <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/metricas2.png" /></td>
   </tr>
   </table>
-# O passo a passo do projeto em Video da 2° Sprint está em (Imagens_API)
+# O passo a passo do projeto em Video da 3° Sprint está em (Imagens_API)
  
