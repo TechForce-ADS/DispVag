@@ -103,7 +103,7 @@
 # Sprint 3
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint3"> Código 3º Sprint </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint%203"> Código 3º Sprint </a>
 # Um passo a passo do projeto em imagem (3º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
