@@ -96,8 +96,13 @@
   </tr>
   </table>
   
+  # Um passo a passo do projeto em Video (2º sprint):
+ 
+ <p align="">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video2.gif">
+</p>
     
- # O passo a passo do projeto em Video da 2° Sprint está em (Imagens_API)
+ 
  
 
 # Sprint 3
@@ -149,4 +154,9 @@
     <td><a> Métricas <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/metricas2.png" /></td>
   </tr>
   </table>
-# O passo a passo do projeto em Video da 3° Sprint está em (Imagens_API)
+ # Um passo a passo do projeto em Video (3º sprint):
+ 
+ <p align="">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video3sprint3.gif">
+</p>
+ 
