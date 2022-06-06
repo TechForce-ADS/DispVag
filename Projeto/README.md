@@ -71,7 +71,7 @@
 >  Protótipo desenvolvido para a 2° Sprint:
 > > [Link para o Protótipo da 2º Sprint ](https://github.com/DISPVAG/DISPVAG/blob/main/Prototipo/README.md#prot%C3%B3tipo---2 )
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint3"> Código 2º Sprint </a>
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto/sprint%202"> Código 2º Sprint </a>
 # Um passo a passo do projeto em imagem (º sprint) : 
 <table border="1" bordercolor="blue" width="100%" height="100%">
   <tr>
