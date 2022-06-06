@@ -1,20 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  # Projeto de API - 1º ADS 
-=======
-# Projeto de API - 1º ADS 
->>>>>>> 42c6ce63cff2f6f88a878127f82777285d490346
-=======
-# Projeto de API - 1º ADS 
->>>>>>> 42c6ce63cff2f6f88a878127f82777285d490346
-=======
-# Projeto de API - 1º ADS 
->>>>>>> 42c6ce63cff2f6f88a878127f82777285d490346
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+# Projeto de API - 1º ADS 
+
 > Como foi apresentasado, tinhamos que realizar uma aplicação WEB, ou seja, um site de vagas onde estivesse vagas catálogadas, com os seguintes requisitos: 
 - Linguagem Python (Requisito Fatec)
 - Linguagem HTML e CSS (Requisito Fatec)
