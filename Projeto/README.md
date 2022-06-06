@@ -97,11 +97,8 @@
   </table>
   
     
- # Um passo a passo do projeto em Video (1º sprint):
+ # O passo a passo do projeto em Video da 2° Sprint está em (Imagens_API)
  
- <p align="">
-  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video_API.mp4">
-</p>
 
 # Sprint 3
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
@@ -152,5 +149,5 @@
     <td><a> Métricas <a/><img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/metricas2.png" /></td>
   </tr>
   </table>
-
+# O passo a passo do projeto em Video da 2° Sprint está em (Imagens_API)
  
