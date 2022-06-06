@@ -96,6 +96,12 @@
   </tr>
   </table>
   
+    
+ # Um passo a passo do projeto em Video (1º sprint):
+ 
+ <p align="">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video_API.mp4">
+</p>
 
 # Sprint 3
 > Foi decidido que entregaríamos as 5 páginas pedidas no requisito e começariamos a fazer a interação com as linguagens de programação.
