@@ -262,11 +262,8 @@ Os mapas estratégicos são a representação gráfica do BSC que torna ainda ma
 <img src = "https://github.com/DISPVAG/imagens/blob/main/backlog3.jpg" />
 
 # Burndown do Projeto
-> - 1° Sprint
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn1sprint.png" />
-> - 2° Sprint
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn2sprint.png" />
-> - 3° Sprint
 <img src = "https://github.com/DISPVAG/DISPVAG/blob/main/Burndown/burn3sprint.png" />
 
 
