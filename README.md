@@ -123,8 +123,14 @@ com todos os processos necessários para a fidelização do cliente.
 
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Nosso Projeto em algumas linhas (**códigos**) </a>
 
-> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Projeto em **Video e Imagens** </a> 
-
+> <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Projeto em **Video e Imagens** </a>
+ 
+# Um passo a passo do projeto em Video (3º sprint):
+ 
+ <p align="">
+  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video3sprint3.gif">
+</p>
+ 
 # Objetivo
 
 Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível satisfatório do produto para empresa e cliente.
