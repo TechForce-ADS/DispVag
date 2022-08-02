@@ -1,5 +1,5 @@
-# DISPVAG
-Projeto de API - 1° Semestre de 2022 da Fatec São José dos Campos 
+# <img src = "https://github.com/DISPVAG/Projeto_API_DISPVAG/blob/main/imagens/Logo---DISPVAG.png" height="150" width="200" /> 
+Projeto de API - 1° Semestre de 2022 da Fatec São José dos Campos - DISPVAG
 
 
 <br>
