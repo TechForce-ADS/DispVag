@@ -129,11 +129,7 @@ com todos os processos necessários para a fidelização do cliente.
 
 > <a href ="https://github.com/DISPVAG/DISPVAG/tree/main/Projeto"> Projeto em **Video e Imagens** </a>
  
-# Um passo a passo do projeto em Video (3º sprint):
- 
- <p align="">
-  <img src="https://github.com/DISPVAG/DISPVAG/blob/main/Projeto/Imagens_API/video3sprint3.gif">
-</p>
+
  
 # Objetivo
 
