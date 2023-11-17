@@ -1,4 +1,4 @@
-# <img src = "https://github.com/DISPVAG/Projeto_API_DISPVAG/blob/main/imagens/Logo---DISPVAG.png" height="150" width="200" /> 
+# <img src = "https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" height="200" width="200" /> 
 Projeto de API - 1° Semestre de 2022 da Fatec São José dos Campos - DISPVAG
 
 
